@@ -1,0 +1,472 @@
+{
+  "EdTextFont": "#1d2021",
+  "EdTextBg": "#f9f5d7",
+  "EdSelFont": "#1d2021",
+  "EdSelBg": "#ebdbb2",
+  "EdDisableFont": "#1d2021",
+  "EdDisableBg": "#f9f5d7",
+  "EdLinks": "#79740e",
+  "EdLockedBg": "#f9f5d7",
+  "EdCaret": "#7c6f64",
+  "EdMarkers": "#665c54",
+  "EdCurLineBg": "#ebdbb2",
+  "EdIndentVLine": "#d5c4a1",
+  "EdUnprintFont": "#d5c4a1",
+  "EdUnprintBg": "#f9f5d7",
+  "EdUnprintHexFont": "#d5c4a1",
+  "EdMinimapBorder": "",
+  "EdMinimapSelBg": "#f9f5d7",
+  "EdMicromapBg": "#f9f5d7",
+  "EdMicromapViewBg": "#f9f5d7",
+  "EdStateChanged": "#d5c4a1",
+  "EdStateAdded": "#d5c4a1",
+  "EdStateSaved": "#d5c4a1",
+  "EdBlockStaple": "#d5c4a1",
+  "EdComboArrow": "#928374",
+  "EdComboArrowBg": "#f9f5d7",
+  "EdBorder": "#f1e7a0",
+  "EdBlockSepLine": "#d5c4a1",
+  "EdFoldMarkLine": "#d5c4a1",
+  "EdFoldMarkFont": "#a89984",
+  "EdFoldMarkBorder": "#928374",
+  "EdFoldMarkBg": "#f9f5d7",
+  "EdGutterFont": "#7c6f64",
+  "EdGutterBg": "#f9f5d7",
+  "EdGutterCaretFont": "#b57614",
+  "EdGutterCaretBg": "#ebdbb2",
+  "EdRulerFont": "#7c6f64",
+  "EdRulerBg": "#ebdbb2",
+  "EdFoldLine": "#d5c4a1",
+  "EdFoldBg": "#f9f5d7",
+  "EdFoldPlusLine": "#a89984",
+  "EdFoldPlusBg": "#f9f5d7",
+  "EdMarginFixed": "#d5c4a1",
+  "EdMarginCaret": "#d5c4a1",
+  "EdMarginUser": "#d5c4a1",
+  "EdBookmarkBg": "#f9f5d7",
+  "EdBookmarkIcon": "#d5c4a1",
+  "EdMarkedRangeBg": "#f9f5d7",
+  "TabBg": "#f5eebc",
+  "TabFont": "#4a4a4a",
+  "TabFontMod": "#4a4a4a",
+  "TabActive": "#f9f5d7",
+  "TabActiveOthers": "#f5eebc",
+  "TabPassive": "#f5eebc",
+  "TabOver": "#ebdbb2",
+  "TabBorderActive": "#f1e7a0",
+  "TabBorderPassive": "#f5eebc",
+  "TabCloseBg": "",
+  "TabCloseBgOver": "",
+  "TabCloseBorderOver": "",
+  "TabCloseX": "#5d5d5d",
+  "TabCloseXOver": "#9d0006",
+  "TabArrow": "#928374",
+  "TabArrowOver": "#3c3836",
+  "TreeFont": "#5d5d5d",
+  "TreeBg": "#f5eebc",
+  "TreeSelFont": "#1d2021",
+  "TreeSelBg": "#f9f5d7",
+  "TreeLines": "#bdae93",
+  "TreeSign": "#928374",
+  "ListBg": "#f5eebc",
+  "ListSelBg": "#f9f5d7",
+  "ListFont": "#1d2021",
+  "ListSelFont": "#665c54",
+  "ListFontHotkey": "#665c54",
+  "ListFontHilite": "#665c54",
+  "ListCompletePrefix": "#b57614",
+  "ListCompleteParams": "#9d0006",
+  "GaugeFill": "#d5c4a1",
+  "GaugeBg": "#f9f5d7",
+  "ButtonFont": "#5d5d5d",
+  "ButtonFontDisabled": "#cecece",
+  "ButtonBgPassive": "#f5eebc",
+  "ButtonBgOver": "#f9f5d7",
+  "ButtonBgChecked": "#ebdbb2",
+  "ButtonBgDisabled": "#f1e7a0",
+  "ButtonBorderPassive": "#f5eebc",
+  "ButtonBorderOver": "#f9f5d7",
+  "ButtonBorderFocused": "#ebdbb2",
+  "ScrollBack": "#f5eebc",
+  "ScrollRect": "#ebdbb2",
+  "ScrollFill": "#ebdbb2",
+  "ScrollArrow": "#928374",
+  "ScrollScrolled": "#f5eebc",
+  "StatusFont": "#4a4a4a",
+  "StatusBg": "#f5eebc",
+  "StatusLines": "#f1e7a0",
+  "StatusAltFont": "#4a4a4a",
+  "StatusAltBg": "#f5eebc",
+  "SplitMain": "#f5eebc",
+  "SplitGroups": "#f5eebc",
+  "ExportHtmlBg": "#f9f5d7",
+  "ExportHtmlNumbers": "#8f3f71",
+  "Lex_Id": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Id1": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#b57614",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Id2": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Id3": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Id4": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_IdKeyword": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#9d0006",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_IdVar": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_IdBad": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#9d0006",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_String": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#79740e",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_String2": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#79740e",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_String3": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#79740e",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Symbol": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#504945",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Symbol2": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#504945",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_SymbolBad": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#9d0006",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Comment": {
+    "Type": 1,
+    "Styles": "i",
+    "CFont": "#928374",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Comment2": {
+    "Type": 1,
+    "Styles": "i",
+    "CFont": "#928374",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_CommentDoc": {
+    "Type": 1,
+    "Styles": "i",
+    "CFont": "#928374",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Number": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#8f3f71",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Color": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_IncludeBG1": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_IncludeBG2": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_IncludeBG3": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_IncludeBG4": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_SectionBG1": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_SectionBG2": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_SectionBG3": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_SectionBG4": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_BracketBG": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#504945",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_CurBlockBG": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_SeparLine": {
+    "Type": 3,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#d5c4a1",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TagBound": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TagId": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TagIdBad": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#9d0006",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TagProp": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#b57614",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_LightBG1": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_LightBG2": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_LightBG3": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_LightBG4": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_LightBG5": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Pale1": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Pale2": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_Pale3": {
+    "Type": 1,
+    "Styles": "",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TextBold": {
+    "Type": 1,
+    "Styles": "b",
+    "CFont": "#af3a03",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TextItalic": {
+    "Type": 1,
+    "Styles": "i",
+    "CFont": "#9d0006",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TextBoldItalic": {
+    "Type": 1,
+    "Styles": "bi",
+    "CFont": "#af3a03",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  },
+  "Lex_TextCross": {
+    "Type": 1,
+    "Styles": "s",
+    "CFont": "#9d0006",
+    "CBack": "",
+    "CBorder": "",
+    "Border": "0,0,0,0"
+  }
+}
