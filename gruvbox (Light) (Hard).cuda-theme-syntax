@@ -1,110 +1,8 @@
 {
-  "EdTextFont": "#f2e5bc",
-  "EdTextBg": "#32302f",
-  "EdSelFont": "#f2e5bc",
-  "EdSelBg": "#3c3836",
-  "EdDisableFont": "#f2e5bc",
-  "EdDisableBg": "#32302f",
-  "EdLinks": "#b8bb26",
-  "EdLockedBg": "#32302f",
-  "EdCaret": "#a89984",
-  "EdMarkers": "#bdae93",
-  "EdCurLineBg": "#3c3836",
-  "EdIndentVLine": "#504945",
-  "EdUnprintFont": "#504945",
-  "EdUnprintBg": "#32302f",
-  "EdUnprintHexFont": "#504945",
-  "EdMinimapBorder": "",
-  "EdMinimapSelBg": "#32302f",
-  "EdMicromapBg": "#32302f",
-  "EdMicromapViewBg": "#32302f",
-  "EdStateChanged": "#504945",
-  "EdStateAdded": "#504945",
-  "EdStateSaved": "#504945",
-  "EdBlockStaple": "#504945",
-  "EdComboArrow": "#928374",
-  "EdComboArrowBg": "#32302f",
-  "EdBorder": "#121111",
-  "EdBlockSepLine": "#504945",
-  "EdFoldMarkLine": "#504945",
-  "EdFoldMarkFont": "#7c6f64",
-  "EdFoldMarkBorder": "#928374",
-  "EdFoldMarkBg": "#32302f",
-  "EdGutterFont": "#a89984",
-  "EdGutterBg": "#32302f",
-  "EdGutterCaretFont": "#fabd2f",
-  "EdGutterCaretBg": "#3c3836",
-  "EdRulerFont": "#a89984",
-  "EdRulerBg": "#3c3836",
-  "EdFoldLine": "#504945",
-  "EdFoldBg": "#32302f",
-  "EdFoldPlusLine": "#7c6f64",
-  "EdFoldPlusBg": "#32302f",
-  "EdMarginFixed": "#504945",
-  "EdMarginCaret": "#504945",
-  "EdMarginUser": "#504945",
-  "EdBookmarkBg": "#32302f",
-  "EdBookmarkIcon": "#504945",
-  "EdMarkedRangeBg": "#32302f",
-  "TabBg": "#222020",
-  "TabFont": "#bbbbbb",
-  "TabFontMod": "#bbbbbb",
-  "TabActive": "#32302f",
-  "TabActiveOthers": "#222020",
-  "TabPassive": "#222020",
-  "TabOver": "#3c3836",
-  "TabBorderActive": "#121111",
-  "TabBorderPassive": "#222020",
-  "TabCloseBg": "",
-  "TabCloseBgOver": "",
-  "TabCloseBorderOver": "",
-  "TabCloseX": "#a8a8a8",
-  "TabCloseXOver": "#fb4934",
-  "TabArrow": "#928374",
-  "TabArrowOver": "#ebdbb2",
-  "TreeFont": "#a8a8a8",
-  "TreeBg": "#222020",
-  "TreeSelFont": "#f2e5bc",
-  "TreeSelBg": "#32302f",
-  "TreeLines": "#665c54",
-  "TreeSign": "#928374",
-  "ListBg": "#222020",
-  "ListSelBg": "#32302f",
-  "ListFont": "#f2e5bc",
-  "ListSelFont": "#bdae93",
-  "ListFontHotkey": "#bdae93",
-  "ListFontHilite": "#bdae93",
-  "ListCompletePrefix": "#fabd2f",
-  "ListCompleteParams": "#fb4934",
-  "GaugeFill": "#504945",
-  "GaugeBg": "#32302f",
-  "ButtonFont": "#a8a8a8",
-  "ButtonFontDisabled": "#393939",
-  "ButtonBgPassive": "#222020",
-  "ButtonBgOver": "#32302f",
-  "ButtonBgChecked": "#3c3836",
-  "ButtonBgDisabled": "#121111",
-  "ButtonBorderPassive": "#222020",
-  "ButtonBorderOver": "#32302f",
-  "ButtonBorderFocused": "#3c3836",
-  "ScrollBack": "#222020",
-  "ScrollRect": "#3c3836",
-  "ScrollFill": "#3c3836",
-  "ScrollArrow": "#928374",
-  "ScrollScrolled": "#222020",
-  "StatusFont": "#bbbbbb",
-  "StatusBg": "#222020",
-  "StatusLines": "#121111",
-  "StatusAltFont": "#bbbbbb",
-  "StatusAltBg": "#222020",
-  "SplitMain": "#222020",
-  "SplitGroups": "#222020",
-  "ExportHtmlBg": "#32302f",
-  "ExportHtmlNumbers": "#d3869b",
   "Lex_Id": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
+    "CFont": "#076678",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -112,7 +10,7 @@
   "Lex_Id1": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#fabd2f",
+    "CFont": "#b57614",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -120,7 +18,7 @@
   "Lex_Id2": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
+    "CFont": "#1d2021",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -128,7 +26,7 @@
   "Lex_Id3": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
+    "CFont": "#1d2021",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -136,7 +34,7 @@
   "Lex_Id4": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
+    "CFont": "#1d2021",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -144,7 +42,7 @@
   "Lex_IdKeyword": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#fb4934",
+    "CFont": "#9d0006",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -152,7 +50,7 @@
   "Lex_IdVar": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
+    "CFont": "#076678",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -160,15 +58,15 @@
   "Lex_IdBad": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#fb4934",
+    "CFont": "#1d2021",
+    "CBack": "#9d0006",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_String": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#b8bb26",
+    "CFont": "#79740e",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -176,7 +74,7 @@
   "Lex_String2": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#b8bb26",
+    "CFont": "#79740e",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -184,7 +82,7 @@
   "Lex_String3": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#b8bb26",
+    "CFont": "#79740e",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -192,7 +90,7 @@
   "Lex_Symbol": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#d5c4a1",
+    "CFont": "#504945",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -200,7 +98,7 @@
   "Lex_Symbol2": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#d5c4a1",
+    "CFont": "#504945",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -208,8 +106,8 @@
   "Lex_SymbolBad": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#fb4934",
+    "CFont": "#1d2021",
+    "CBack": "#9d0006",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -240,7 +138,7 @@
   "Lex_Number": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#d3869b",
+    "CFont": "#8f3f71",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -248,7 +146,7 @@
   "Lex_Color": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
+    "CFont": "#1d2021",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -257,7 +155,7 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -265,7 +163,7 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -273,7 +171,7 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -281,7 +179,7 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -289,7 +187,7 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -297,7 +195,7 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -305,7 +203,7 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
@@ -313,38 +211,38 @@
     "Type": 3,
     "Styles": "",
     "CFont": "",
-    "CBack": "#32302f",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_BracketBG": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#d5c4a1",
-    "CBack": "#32302f",
+    "CFont": "#504945",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_CurBlockBG": {
     "Type": 3,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#32302f",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_SeparLine": {
     "Type": 3,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#504945",
+    "CFont": "#1d2021",
+    "CBack": "#d5c4a1",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_TagBound": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
+    "CFont": "#076678",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -352,7 +250,7 @@
   "Lex_TagId": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
+    "CFont": "#076678",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -360,15 +258,15 @@
   "Lex_TagIdBad": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#fb4934",
+    "CFont": "#1d2021",
+    "CBack": "#9d0006",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_TagProp": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#fabd2f",
+    "CFont": "#b57614",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -376,71 +274,71 @@
   "Lex_LightBG1": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
-    "CBack": "#32302f",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_LightBG2": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
-    "CBack": "#32302f",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_LightBG3": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
-    "CBack": "#32302f",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_LightBG4": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
-    "CBack": "#32302f",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_LightBG5": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#83a598",
-    "CBack": "#32302f",
+    "CFont": "#076678",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_Pale1": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#32302f",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_Pale2": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#32302f",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_Pale3": {
     "Type": 1,
     "Styles": "",
-    "CFont": "#f2e5bc",
-    "CBack": "#32302f",
+    "CFont": "#1d2021",
+    "CBack": "#f9f5d7",
     "CBorder": "",
     "Border": "0,0,0,0"
   },
   "Lex_TextBold": {
     "Type": 1,
     "Styles": "b",
-    "CFont": "#fe8019",
+    "CFont": "#af3a03",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -448,7 +346,7 @@
   "Lex_TextItalic": {
     "Type": 1,
     "Styles": "i",
-    "CFont": "#fb4934",
+    "CFont": "#9d0006",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -456,7 +354,7 @@
   "Lex_TextBoldItalic": {
     "Type": 1,
     "Styles": "bi",
-    "CFont": "#fe8019",
+    "CFont": "#af3a03",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
@@ -464,7 +362,7 @@
   "Lex_TextCross": {
     "Type": 1,
     "Styles": "s",
-    "CFont": "#fb4934",
+    "CFont": "#9d0006",
     "CBack": "",
     "CBorder": "",
     "Border": "0,0,0,0"
